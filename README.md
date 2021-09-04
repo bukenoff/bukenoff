@@ -11,3 +11,5 @@ But I just want to post parrot gifs, so here you go.
 ![deal-with-it](./deal-with-it.gif)
 ![gentleman](./gentleman.gif)
 ![maracas](./maracas.gif)
+
+magnificent aren't they?
