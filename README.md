@@ -4,7 +4,7 @@ You probably expect me to tell you something about my abiity to code, my work ex
 
 But I have something better..
 <details>
-  <summary>Clcik here</summary>
+  <summary>Click here</summary>
   
   Look at these parrot gifs
 
