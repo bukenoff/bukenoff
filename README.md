@@ -25,5 +25,5 @@ But I have something better..
   ![ultra_fast_parrot](./ultra_fast_parrot.gif)
   ![mask-parrot](./mask-parrot.gif)
 
-  Anyway, cotact me if you're from netflix or something.
+  Anyway, contact me if you're from netflix or something.
 </details>
