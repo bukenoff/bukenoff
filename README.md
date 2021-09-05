@@ -13,3 +13,10 @@ But I just want to post parrot gifs, so here you go.
 ![maracas](./maracas.gif)
 
 magnificent aren't they?
+
+Here's some more
+
+![original](./original_parrot.gif)
+![squad_parrot](./squad_parrot.gif)
+![ultra_fast_parrot](./ultra_fast_parrot.gif)
+![mask-parrot](./mask-parrot.gif)
