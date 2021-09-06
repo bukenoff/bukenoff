@@ -6,7 +6,7 @@ But I have something better..
 <details>
   <summary>Click here</summary>
   
-  Look at these parrot gifs
+  Look at these parrots
 
   ![standard](./standard.gif)
   ![fedora](./fedora.gif)
