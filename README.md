@@ -27,3 +27,7 @@ But I have something better..
 
   Anyway, contact me if you're from netflix or something.
 </details>
+
+My codewars level
+
+![codewars](https://www.codewars.com/users/bukenoff/badges/small)
