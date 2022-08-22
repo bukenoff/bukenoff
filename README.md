@@ -13,7 +13,6 @@ But I have something better..
   ![businessman](./businessman.gif)
   ![cop](./cop.gif)
   ![deal-with-it](./deal-with-it.gif)
-  ![gentleman](./gentleman.gif)
   ![maracas](./maracas.gif)
 
   magnificent aren't they?
@@ -21,8 +20,6 @@ But I have something better..
   Here's some more
 
   ![original](./original_parrot.gif)
-  ![squad_parrot](./squad_parrot.gif)
-  ![ultra_fast_parrot](./ultra_fast_parrot.gif)
   ![mask-parrot](./mask-parrot.gif)
 
   Anyway, contact me if you're from netflix or something.
